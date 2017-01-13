@@ -364,4 +364,7 @@ mediaviewPlaybackIconFg: mediaviewPlaybackActive;
 mediaviewPlaybackIconFgOver: mediaviewPlaybackActiveOver;
 mediaviewTransparentBg: #252526;
 mediaviewTransparentFg: #cccccc;
-notificationBg: windowBg;
+
+
+// This is just a test 
+// Original design by NightMode Theme
